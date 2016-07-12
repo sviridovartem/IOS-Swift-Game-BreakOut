@@ -5,6 +5,7 @@
 ![project view](https://github.com/sviridovartem/IOS-Swift-Game-BreakOut/raw/master/desc/Simulator Screen Shot 12 июля 2016 г., 14.14.45.png)
 
 ![project view](https://github.com/sviridovartem/IOS-Swift-Game-BreakOut/raw/master/desc/Simulator Screen Shot 12 июля 2016 г., 14.13.39.png)
+
 ![project view](https://github.com/sviridovartem/IOS-Swift-Game-BreakOut/raw/master/desc/Simulator Screen Shot 12 июля 2016 г., 14.13.49.png)
 
 
